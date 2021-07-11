@@ -1,5 +1,13 @@
 # acbackshadows
 
+## Developer
+
+> ThatDevAchutaine | Creator Of acbackshadows
+
+## Little Info
+
+> I found this from early 2020 on my pc when I was learning how to make npm packages!
+
 ## Introduction
 
 > Allows you to get great shadows every time!
@@ -14,13 +22,6 @@ acbackshadows({
     padding: true
 });
 ```
-
-## Options
-
-2 options to choose from!
-
-shadow__type - hard | soft
-padding - true | false (auto sets to false)
 
 ## Installation
 

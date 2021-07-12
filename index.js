@@ -12,6 +12,10 @@ function acbackshadows(options) {
         if(options.padding) {
             image.style.padding = '1em';
         }
+
+        if(options.padding2) {
+            image.style.padding = '3em';
+        }
     })
 }
 

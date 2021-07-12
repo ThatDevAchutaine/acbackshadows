@@ -1,5 +1,8 @@
 # acbackshadows
 
+[![NPM version][npm-image]][npm-url]
+[![Downloads][downloads-image]][downloads-url]
+
 ## Developer
 
 > ThatDevAchutaine | Creator Of acbackshadows
@@ -26,3 +29,8 @@ acbackshadows({
 ## Installation
 
 > Simple to install just open cmd and type "npm i acbackshadows --save"
+
+[npm-image]: https://img.shields.io/npm/v/acnumbers?style=flat-square
+[npm-url]: https://npmjs.org/package/acbackshadows
+[downloads-image]: https://img.shields.io/npm/dw/acbackshadows
+[downloads-url]: https://npmjs.org/package/acbackshadows

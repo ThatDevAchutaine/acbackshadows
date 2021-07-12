@@ -24,7 +24,7 @@ acbackshadows({
 2 options to choose from!
 
 *shadow__type - hard | soft*
-*padding - true | false (auto sets to false)*
+*padding - true | false (auto sets to false)* *padding2 - true | false (auto sets to false)*
 
 ## Installation
 

@@ -15,7 +15,7 @@ import { acbackshadows } from 'acbackshadows';
 acbackshadows({
     shadow__type: 'hard',
     padding: true,
-    padding2: false,
+    padding2: false
 });
 ```
 

@@ -21,7 +21,7 @@ acbackshadows({
 
 ## Options
 
-2 options to choose from!
+3 options to choose from!
 
 *shadow__type - hard | soft*
 *padding - true | false (auto sets to false)* *padding2 - true | false (auto sets to false)*
